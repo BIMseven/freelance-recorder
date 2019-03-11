@@ -1,5 +1,5 @@
 from flask import Flask
-from models import db
+from src.models import db
 import os
 import string
 
