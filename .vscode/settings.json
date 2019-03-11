@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "winenv\\Scripts\\python.exe",
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_flask"],
+  "python.linting.pylintEnabled": true
+}
